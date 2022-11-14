@@ -1,0 +1,4 @@
+## README for HW2
+Using the IGBP layer from the MODIS annual landcover product (MCD12Q1) as the foundational layer, Henry Gibson and Daniel Weiss from the Malaria Atlas Project at the University of Oxford created this dataset enabling visualization of the global change in landcover covering a 12 year period from 2001 to 2013. The MODIS layer has an annual temporal resolution, and an approximate spatial resolution of 5000m, which was converted to a fractional product indicating the integer percentage of the output pixel covered by each of the 17 landcover classes. 
+
+Google Earth Engine (https://developers.google.com/earth-engine/datasets)

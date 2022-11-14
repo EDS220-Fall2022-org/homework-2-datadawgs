@@ -14,7 +14,6 @@ Information for Homework 2:
    - Any necessary data or supporting files included in the repo
    - README file edited to be appropriate for your project
 
-
 Information for final project:
 - Presentation dates: **Nov 29; Dec 1**
 - Final writeup hand-in date: **Dec 5**
